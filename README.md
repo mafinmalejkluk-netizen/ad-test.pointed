@@ -1,2 +1,41 @@
-# ad-test.pointed
-click the x
+First, extract the folder. Then open the `.bat` file, and it will download everything automatically. After that, go back to the same folder and find the `dist` folder. You will find the `.exe` file inside.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-this was made by claude-
